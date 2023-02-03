@@ -1,0 +1,4 @@
+[submodule "submodules/AM.Shared"]
+	path = submodules/AM.Shared
+	url = https://github.com/masterlifting/AM.Shared
+	branch = dev
